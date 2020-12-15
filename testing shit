@@ -1,1 +1,4 @@
 print('hello world')
+sp = 123123
+s = [i for i in 'sdasda']
+print(s)
